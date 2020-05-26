@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rohan Mukherjee | Ankush Mandal</title>
+    <link>https://ankushmandal.github.io/author/rohan-mukherjee/</link>
+      <atom:link href="https://ankushmandal.github.io/author/rohan-mukherjee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rohan Mukherjee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ankushmandal.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rohan Mukherjee</title>
+      <link>https://ankushmandal.github.io/author/rohan-mukherjee/</link>
+    </image>
+    
+    <item>
+      <title>An adaptive differential evolution algorithm for global optimization in dynamic environments</title>
+      <link>https://ankushmandal.github.io/publication/mandal-das-2014-adaptive/</link>
+      <pubDate>Wed, 28 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://ankushmandal.github.io/publication/mandal-das-2014-adaptive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
